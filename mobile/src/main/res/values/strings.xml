@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotificationWear</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
+
+</resources>
